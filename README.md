@@ -15,3 +15,11 @@ There are 6 steps how Logistic Regression works on Credit Card Fraud Detection
 4. Model Training
 5. Model Evaluation
 6. Deployment & Monitoring
+
+# DataSet
+The Dataset is collected from Kaggle website - (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+# Libraries
+1. Numpy
+2. Pandas
+3. sklearn
